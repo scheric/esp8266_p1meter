@@ -2,6 +2,9 @@
 
 Software for the ESP2866 that sends P1 smart meter data to an mqtt broker (with OTA firmware updates)
 
+# instalation instructions
+1. download wifimanager https://github.com/tzapu/WiFiManager
+
 ## Connection of the P1 meter to the ESP8266
 
 | ESP8266 Pin | P1 Pin |
