@@ -51,7 +51,7 @@ They are however easy to add if you know the codes used.
 
 I use this for home assistant `sensors.yaml`:
 
-```
+```yaml
 - platform: mqtt
   name: P1 Consumption Low Tarif
   unit_of_measurement: 'kWh'
