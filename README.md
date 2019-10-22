@@ -3,10 +3,10 @@
 Software for the ESP2866 that sends P1 smart meter data to an mqtt broker (with OTA firmware updates)
 
 # instalation instructions
-1. download wifimanager https://github.com/tzapu/WiFiManager
-2. flash with arduino IDE
-3. connect to 192.168.4.1
-3. fil in local wifi credenttials an mqtt kredentials.
+1. Download wifimanager https://github.com/tzapu/WiFiManager and impot it to your compiler
+2. Flash with IDE
+3. Connect to 192.168.4.1
+3. Fill in local wifi credentials and mqtt credentials.
 
 
 
