@@ -6,7 +6,7 @@
 #define BAUD_RATE 115200
 
 // * P1 Meter RX pin
-#define P1_SERIAL_RX D2
+#define P1_SERIAL_RX D5
 
 // * Max telegram length
 #define P1_MAXLINELENGTH 64
