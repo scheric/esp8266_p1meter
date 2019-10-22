@@ -16,7 +16,7 @@ Software for the ESP2866 that sends P1 smart meter data to an mqtt broker (with 
 | ----        | ----   |
 | GND         | GND    |
 | 3V3         | RTS    |
-| DATA (RXD)  | D2     |
+| DATA (RXD)  | D5     |
 
 To connect my Landys and Gyr E350 (ZCF110), I used a 10K resistor connected between DATA (RXD) and RTS.
 Many howto's mention RTS requires 5V (VIN) to activate the P1 port, but for me 3V3 suffices.
